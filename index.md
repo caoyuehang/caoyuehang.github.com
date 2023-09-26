@@ -6,7 +6,7 @@
       <h1>Yuehang Cao (曹悦航)</h1>
       <p><b>MS Student</b></p>
       <p><b>National University of Defense Technology</b></p>
-      <p><b>e-mail：[Link](caoyuehang@nudt.edu.cn)</b></p>
+      <p><b>e-mail：caoyuehang@nudt.edu.cn</b></p>
     </td>
   </tr>
 </table>
