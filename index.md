@@ -13,11 +13,12 @@
 
 ### Current research interests
 
-**Anomaly Detection on Graphs**
-**Graph Nueral Network**
-**Graph Foundation Model**
+**Anomaly Detection on Graphs**,
+**Graph Nueral Network**,
+**Graph Foundation Model**.
 
 
 ### Paper
 [1] Multiplex heterogeneous network representation learning withunipath based global awareness neural network. [pdf](https://www.sciencedirect.com/science/article/pii/S0167739X23003291)
+
 [2] Dynamic Graph Learning via Historical Information Perception and Multi-Granular Temporal Curriculum Learning. [pdf](https://dl.acm.org/doi/abs/10.1145/3746252.3761109?download=true)
